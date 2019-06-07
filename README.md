@@ -1,6 +1,6 @@
 # Data Visualization Comparision for face images
 
-This repository compares the representation of different face categories across layers of DCNN, from low pooling layers for fully connected layers to see when categories are clearly represented.
+This repository compares the representation of different face categories across layers of DCNN, from early pooling layers to fully connected layers to see when categories are clearly represented/separated.
 
 To this end, I used common visualization (or dimension reduction) methods including:
 1. [**PCA:**](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
