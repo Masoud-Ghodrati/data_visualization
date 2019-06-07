@@ -14,7 +14,7 @@ To start with, I first compared the performance of these three methods on [**MNI
 
 Visual inspection shows that [UMAP](https://github.com/lmcinnes/umap) has done a better job as [MNIST-Fashion](https://github.com/zalandoresearch/fashion-mnist) categories are better clustered compared to [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) and [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html). Moreover, comparing the computation time on my laptop showed that [UMAP](https://github.com/lmcinnes/umap) also wins this competition (note that PCA is the quickest but did not provide nice resluts):
 
-| Method | Epalsed time |
+| Method | Elapsed time |
 | --- | --- |
 | PCA | 1.34 sec |
 | TSNE | 6083.97 sec |
