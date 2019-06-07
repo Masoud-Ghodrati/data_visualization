@@ -9,4 +9,4 @@ To this end, I used common visualization (or dimension reduction) methods includ
 
 To start with, we first compare the performance of these three methods on [**MNIST-Fashion**](https://github.com/zalandoresearch/fashion-mnist):
 
-(MNIST_Fashion_visualization.png.png)
+(MNIST_Fashion_visualization.png)
